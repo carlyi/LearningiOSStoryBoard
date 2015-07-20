@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FourthViewController.swift
 //  LearningStoryBoard
 //
 //  Created by Carl Yi on 15/7/21.
@@ -8,11 +8,8 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class FourthViewController: UIViewController {
 
-    @IBAction func back(sender: AnyObject) {
-        self.dismissViewControllerAnimated(true, completion: nil)
-    }
     override func viewDidLoad() {
         super.viewDidLoad()
 
