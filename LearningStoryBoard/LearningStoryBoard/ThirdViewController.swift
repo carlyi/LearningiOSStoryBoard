@@ -6,13 +6,16 @@
 //  Copyright (c) 2015年 Carl Yi. All rights reserved.
 //
 
+//
+
 import UIKit
 
 class ThirdViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+println("helloworld")
         // Do any additional setup after loading the view.
     }
 
